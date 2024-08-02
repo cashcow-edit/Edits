@@ -4,12 +4,9 @@ Welcome to my professional video editing portfolio website. Here you can explore
 
 ## Table of Contents
 
-- [About Me](#about-me)
-- [My Projects](#my-projects)
-- [Contact Me](#contact-me)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [About Me](SACHIN VERMA)
+- [My Projects](CASHCOW VIDEOS)
+- [Contact Me](8103523875)
 
 ## About Me
 
@@ -20,7 +17,7 @@ I am a professional video editor with extensive experience in various types of v
 - Motion Graphics
 - Sound Design
 
-![My Photo](images/your-photo.jpg)
+![My Photo](https://www.instagram.com/p/CVGPNLJBx46/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## My Projects
 
@@ -44,7 +41,7 @@ Description of Project 2.
 
 Feel free to reach out to me for any inquiries or collaborations.
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](onebrainfilms@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ## Installation
