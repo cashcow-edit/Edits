@@ -27,7 +27,7 @@ In this section, you can find some of my recent works. Each project showcases my
 
 Description of Project 1.
 
-![Project 1](path/to/project1-thumbnail.jpg)
+![Project 1](https://www.youtube.com/watch?v=U69s3XXBMbg)
 
 ### Project Title 2
 
