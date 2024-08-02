@@ -44,10 +44,3 @@ Feel free to reach out to me for any inquiries or collaborations.
 - **Email:** [your-email@example.com](onebrainfilms@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
-## Installation
-
-To run this website locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repository.git
